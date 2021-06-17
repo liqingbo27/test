@@ -1,0 +1,6 @@
+{
+    "plugins": [
+        "highlight"
+    ],
+    "title": "Golang开发文档"
+}
